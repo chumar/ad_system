@@ -1,0 +1,7 @@
+Ad-name: Ad
+Location: Karachi
+Total no of users allowed for Ad per day: 200
+Total users from Karachi viewed Ad per day: 25
+Viewed Details of each User
+test1 viewed the Ad for 6 times
+----------------------------------

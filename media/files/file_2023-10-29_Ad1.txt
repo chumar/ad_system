@@ -1,0 +1,20 @@
+Ad-name: Ad1
+Location: Lahore
+Total no of users allowed for Ad1 per day: 100
+Total users from Lahore viewed Ad1 per day: 30
+Viewed Details of each User
+test viewed the Ad1 for 5 times
+----------------------------------
+Ad-name: Ad1
+Location: Multan
+Total no of users allowed for Ad1 per day: 1000
+Total users from Multan viewed Ad1 per day: 10
+Viewed Details of each User
+----------------------------------
+Ad-name: Ad1
+Location: Karachi
+Total no of users allowed for Ad1 per day: 200
+Total users from Karachi viewed Ad1 per day: 25
+Viewed Details of each User
+test1 viewed the Ad1 for 2 times
+----------------------------------

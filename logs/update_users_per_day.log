@@ -1,0 +1,17 @@
+INFO 2023-10-29 14:16:56,796 autoreload Watching for file changes with StatReloader
+INFO 2023-10-29 14:20:55,579 autoreload Watching for file changes with StatReloader
+INFO 2023-10-29 14:22:45,869 autoreload Watching for file changes with StatReloader
+INFO 2023-10-29 14:24:26,914 generate_text_file Starting the generate_text_file script.
+INFO 2023-10-29 14:24:27,021 generate_text_file File for ad "Ad1" stored successfully.
+INFO 2023-10-29 14:24:27,467 generate_text_file File for ad "Ad" stored successfully.
+INFO 2023-10-29 14:24:27,468 generate_text_file generate_text_file script completed.
+INFO 2023-10-29 14:24:31,804 autoreload Watching for file changes with StatReloader
+INFO 2023-10-29 14:25:59,124 generate_text_file File for ad "Ad1" stored successfully.
+INFO 2023-10-29 14:25:59,246 generate_text_file File for ad "Ad" stored successfully.
+INFO 2023-10-29 14:26:07,869 autoreload Watching for file changes with StatReloader
+INFO 2023-10-29 14:26:33,342 update_location_users_per_day Starting the update process.
+INFO 2023-10-29 14:26:33,431 update_location_users_per_day users_per_day set to 0 for location: Lahore
+INFO 2023-10-29 14:26:33,508 update_location_users_per_day users_per_day set to 0 for location: Multan
+INFO 2023-10-29 14:26:33,586 update_location_users_per_day users_per_day set to 0 for location: Karachi
+INFO 2023-10-29 14:26:33,586 update_location_users_per_day Update process completed.
+INFO 2023-10-29 14:26:42,382 autoreload Watching for file changes with StatReloader
