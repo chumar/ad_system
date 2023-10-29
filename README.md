@@ -1,4 +1,5 @@
 # Ad_System_Project
+#First login using this url " http://127.0.0.1:8000/admin/" and use username= admin1  password= admin1
 -------Working of the project---------
 #Every ad have specific locations where it will show and we have set the number of users for each location who can visit the ad according to their location. If this limit reached then ad will block in that location but it will open for other locations.Every midnight mean 12 pm 2 cron jobs will run. One cron job will reset the total number of users to 0 who visited the ad per day. this will done file ( "update_location_users_per_day.py"). Second job will create a text file in this file following content will show file name ("generate_text_file.py")
 
